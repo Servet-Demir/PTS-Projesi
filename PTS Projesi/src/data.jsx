@@ -1,22 +1,26 @@
 const employees = [
     {
+        id: 123,
         isim: "Servet",
-        Soyisim: "Demir",
-        Yaş: 19,
+        soyisim: "Demir",
+        yas: 19,
     },
     {
+        id: 325,
         isim: "Arif",
         Soyisim: "Özcan",
-        Yaş: 24,
+        yas: 24,
     },
     {
+        id: 634,
         isim: "Ahmet",
         Soyisim: "Demir",
-        Yaş: 26,
+        yas: 26,
     },
     {
+        id: 632,
         isim: "Ayşe",
         Soyisim: "Demir",
-        Yaş: 35,
+        yas: 35,
     },
 ]
